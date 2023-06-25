@@ -8,7 +8,7 @@ Projeto de lista de tarefas criado com React e Vite.
     Instale as dependências com o comando npm install;
     Inicie o servidor local com o comando npm run dev;
     Acesse o projeto em http://localhost:3000.
-    https://github.com/herondi/Todo-List-React/blob/master/src/img/WhatsApp%20Image%202023-06-25%20at%2011.15.47.jpeg
+    ![Imagem do projeto](https://raw.githubusercontent.com/herondi/Todo-List-React/master/src/img/WhatsApp%20Image%202023-06-25%20at%2011.15.47.jpeg)
 
 🛠️ Tecnologias utilizadas
 
