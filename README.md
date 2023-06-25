@@ -1,6 +1,8 @@
 📝 Todo List React
 
-Projeto de lista de tarefas criado com React e Vite.
+## Projeto de lista de tarefas criado com React e Vite
+
+Clique [aqui](https://herondi.github.io/Todo-List-React/) para acessar o projeto.
 
 
 
